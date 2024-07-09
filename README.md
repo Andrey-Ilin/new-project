@@ -26,3 +26,9 @@ This guide will walk you through the process of setting up a new GitHub reposito
    ``` 
    git checkout -b development
    ```
+   - make new changes
+
+4. **Push the development branch to GitHub**
+   ```
+   git push -u origin development
+   ```
